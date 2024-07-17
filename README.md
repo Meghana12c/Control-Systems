@@ -71,4 +71,4 @@ git clone https://github.com/yourusername/control-systems.git
 cd control-systems
 pip install -r requirements.txt
 ```
-(https://github.com/user-attachments/assets/4beb6cca-9064-4999-aca3-7149b1998b57)
+Thank You!
